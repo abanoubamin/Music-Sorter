@@ -1,0 +1,42 @@
+c:\users\xero\documents\visual studio 2013\Projects\MusicSorterApp\MusicSorterApp\bin\Debug\MusicSorterApp.exe.config
+c:\users\xero\documents\visual studio 2013\Projects\MusicSorterApp\MusicSorterApp\bin\Debug\MusicSorterApp.exe
+c:\users\xero\documents\visual studio 2013\Projects\MusicSorterApp\MusicSorterApp\bin\Debug\MusicSorterApp.pdb
+c:\users\xero\documents\visual studio 2013\Projects\MusicSorterApp\MusicSorterApp\bin\Debug\MetroSuite.dll
+c:\users\xero\documents\visual studio 2013\Projects\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.Form1.resources
+c:\users\xero\documents\visual studio 2013\Projects\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.Properties.Resources.resources
+c:\users\xero\documents\visual studio 2013\Projects\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.csproj.GenerateResource.Cache
+c:\users\xero\documents\visual studio 2013\Projects\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.exe
+c:\users\xero\documents\visual studio 2013\Projects\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.pdb
+c:\users\xero\documents\visual studio 2013\Projects\MusicSorterApp\MusicSorterApp\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\xero\documents\visual studio 2013\Projects\MusicSorterApp\MusicSorterApp\bin\Debug\NAudio.dll
+c:\users\xero\documents\visual studio 2013\Projects\MusicSorterApp\MusicSorterApp\bin\Debug\NAudio.xml
+c:\users\xero\documents\visual studio 2013\Projects\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.csprojResolveAssemblyReference.cache
+F:\Projects\MusicSorterApp\MusicSorterApp\bin\Debug\MusicSorterApp.exe.config
+F:\Projects\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.exe
+F:\Projects\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.pdb
+F:\Projects\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.Form1.resources
+F:\Projects\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.Properties.Resources.resources
+F:\Projects\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.csproj.GenerateResource.Cache
+F:\Projects\MusicSorterApp\MusicSorterApp\bin\Debug\MusicSorterApp.exe
+F:\Projects\MusicSorterApp\MusicSorterApp\bin\Debug\MusicSorterApp.pdb
+F:\Projects\MusicSorterApp\MusicSorterApp\bin\Debug\NAudio.xml
+E:\Study\CS\2 CS\Semester 2\File Organization\Projects\MusicSorterApp\MusicSorterApp\MusicSorterApp\bin\Debug\MusicSorterApp.exe.config
+E:\Study\CS\2 CS\Semester 2\File Organization\Projects\MusicSorterApp\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.exe
+E:\Study\CS\2 CS\Semester 2\File Organization\Projects\MusicSorterApp\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.pdb
+E:\Study\CS\2 CS\Semester 2\File Organization\Projects\MusicSorterApp\MusicSorterApp\MusicSorterApp\bin\Debug\MusicSorterApp.exe
+E:\Study\CS\2 CS\Semester 2\File Organization\Projects\MusicSorterApp\MusicSorterApp\MusicSorterApp\bin\Debug\MusicSorterApp.pdb
+E:\Study\CS\2 CS\Semester 2\File Organization\Projects\MusicSorterApp\MusicSorterApp\MusicSorterApp\bin\Debug\NAudio.xml
+E:\Study\CS\2 CS\Semester 2\File Organization\Projects\MusicSorterApp\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.csprojResolveAssemblyReference.cache
+E:\Study\CS\2 CS\Semester 2\File Organization\Projects\MusicSorterApp\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.Form1.resources
+E:\Study\CS\2 CS\Semester 2\File Organization\Projects\MusicSorterApp\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.Properties.Resources.resources
+E:\Study\CS\2 CS\Semester 2\File Organization\Projects\MusicSorterApp\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.csproj.GenerateResource.Cache
+E:\Downloads\Compressed\Music-Sorter-master\MusicSorterApp\MusicSorterApp\bin\Debug\MusicSorterApp.exe.config
+E:\Downloads\Compressed\Music-Sorter-master\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.exe
+E:\Downloads\Compressed\Music-Sorter-master\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.pdb
+E:\Downloads\Compressed\Music-Sorter-master\MusicSorterApp\MusicSorterApp\bin\Debug\MusicSorterApp.exe
+E:\Downloads\Compressed\Music-Sorter-master\MusicSorterApp\MusicSorterApp\bin\Debug\MusicSorterApp.pdb
+E:\Downloads\Compressed\Music-Sorter-master\MusicSorterApp\MusicSorterApp\bin\Debug\NAudio.xml
+E:\Downloads\Compressed\Music-Sorter-master\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.csprojResolveAssemblyReference.cache
+E:\Downloads\Compressed\Music-Sorter-master\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.Form1.resources
+E:\Downloads\Compressed\Music-Sorter-master\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.Properties.Resources.resources
+E:\Downloads\Compressed\Music-Sorter-master\MusicSorterApp\MusicSorterApp\obj\Debug\MusicSorterApp.csproj.GenerateResource.Cache
